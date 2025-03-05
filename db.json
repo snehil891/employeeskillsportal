@@ -1,18 +1,10 @@
 {
   "employees": [
     {
-      "id": "271e",
-      "firstName": "Snehil",
-      "lastName": "Sah",
-      "cellNumber": "8294756848",
-      "emailId": "snehilsah400@gmail.com",
-      "password": "sneh@01234"
-    },
-    {
       "id": "751b",
       "firstName": "Srinivas",
       "lastName": "Yarramsetti",
-      "cellNumber": "7569812305",
+      "cellNumber": "7569812304",
       "emailId": "ysrinivas@gmail.com",
       "password": "sriy@01234"
     },
@@ -39,6 +31,33 @@
       "cellNumber": "8294756848",
       "emailId": "snehilsah400@gmail.com",
       "password": "sneh100"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "Java",
+      "experience": "5years"
+    },
+    {
+      "id": "2",
+      "name": "Python",
+      "experience": "3years"
+    },
+    {
+      "id": "064a",
+      "name": "C",
+      "experience": "4"
+    },
+    {
+      "id": "6d5f",
+      "name": "React",
+      "experience": "1year"
+    },
+    {
+      "id": "7913",
+      "name": ".Net",
+      "experience": "3years"
     }
   ]
 }
