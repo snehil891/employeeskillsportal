@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": "271e",
+      "firstName": "Snehil",
+      "lastName": "Sah",
+      "cellNumber": "8294756848",
+      "emailId": "snehilsah400@gmail.com",
+      "password": "sneh@01234"
+    },
+    {
+      "id": "751b",
+      "firstName": "Srinivas",
+      "lastName": "Yarramsetti",
+      "cellNumber": "7569812305",
+      "emailId": "ysrinivas@gmail.com",
+      "password": "sriy@01234"
+    },
+    {
+      "id": "3c7a",
+      "firstName": "Harsh",
+      "lastName": "Raj",
+      "cellNumber": "9798195590",
+      "emailId": "harshraj@gmail.com",
+      "password": "harsh@01234"
+    },
+    {
+      "id": "3388",
+      "firstName": "Niraj",
+      "lastName": "Yadav",
+      "cellNumber": "62031458290",
+      "emailId": "nyadav@gmail.com",
+      "password": "yadav@01234"
+    },
+    {
+      "id": "e9c6",
+      "firstName": "Snehil",
+      "lastName": "Sah",
+      "cellNumber": "8294756848",
+      "emailId": "snehilsah400@gmail.com",
+      "password": "sneh100"
+    }
+  ]
+}
