@@ -27,7 +27,7 @@ const LoginAndSignUp = () => {
     const onFormSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post("http://localhost:5000/employees", employee);
+            const response = await axios.post("http://localhost:3000/employees", employee);
             alert("Signup Successful!");
             console.log("Signup Data", response.data);
             navigate("/dashboard");
@@ -42,7 +42,7 @@ const LoginAndSignUp = () => {
         try {
             console.log("Sending login data:", loginData);
 
-            const response = await axios.get("http://localhost:5000/employees");
+            const response = await axios.get("http://localhost:3000/employees");
             console.log("All users:", response.data);
 
             const user = response.data.find(
